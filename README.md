@@ -1,1 +1,2 @@
-A tiny project in HTML, CSS & JAVASCRIPT for my portfolio
+A tiny project in HTML, CSS & JAVASCRIPT
+It,s a portfolio
